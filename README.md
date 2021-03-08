@@ -1,5 +1,7 @@
 # Tweaked Boss Scaling
 
+[Workshop Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2414579835)
+
 This mod changes multiple item drop rates, specific to progression. I made this mod mainly so that my newer friends wouldn't have to wait until 4th winter to get an eyebrella if we had a lot of people playing. 
 
 ___
